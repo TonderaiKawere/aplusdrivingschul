@@ -1,4 +1,4 @@
-// File: /Users/Tonderai Kawere/Downloads/aplusdrivingschul-main/src/app/layout.tsx
+// File: C:\Users\HP\Downloads\aplus\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
